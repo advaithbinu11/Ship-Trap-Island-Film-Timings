@@ -1,0 +1,29 @@
+
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color:yellow;
+    padding:10px;
+    font-family: 'Poppins', sans-serif;
+}
+.title{
+    font-family: 'Recursive', sans-serif;
+}
+
+.island{
+    font-family:sans-serif;
+    border-radius:20px;
+    width:310 px;
+    margin: 10px
+}
+.table{
+    font-size:70%;
+    width:100%;
+    border-collapse: collapse;
+}
+th,td{
+    border:1px solid
+    #000000;
+    padding:8px;
+    text-align:left;
+}
